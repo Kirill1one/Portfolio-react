@@ -1,6 +1,0 @@
-{
-  "editor.formatOnSave": true,
-  "cSpell.language": "en,en-US",
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "cSpell.enableFiletypes": ["javascript"]
-}
